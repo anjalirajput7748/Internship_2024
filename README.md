@@ -1,1 +1,1 @@
-# Internship_2024
+# ML_Internship_2024
